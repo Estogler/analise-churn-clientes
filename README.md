@@ -66,4 +66,4 @@ O projeto mostrou que é possível identificar padrões de cancelamento de clien
 ---
 
 ## 📌 Autor
-Projeto desenvolvido por Estogler Fonseca Oliveira
+Projeto desenvolvido por Kauã Oliveira
